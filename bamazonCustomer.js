@@ -76,4 +76,4 @@ function buyID() {
 	})
 }
 
-setTimeout(buyID, 1000);
+setTimeout(buyID, 500);
