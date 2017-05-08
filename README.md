@@ -1,8 +1,8 @@
 # Bamazon
 
-bamazonCustomer.js is for buying items
+bamazonCustomer.js is run in node.js and is for buying items
 
-bamazonManager.js is for surveying items, adding new inventory, and adding new items
+bamazonManager.js is run in node.js and is for surveying items, adding new inventory, and adding new items
 
 Video of Working App: https://youtu.be/pfNRU0hrCwA
 
